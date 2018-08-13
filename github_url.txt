@@ -1,1 +1,1 @@
-github_url.txt
+https://github.com/lfiquitiva80/calc_proyecto1
